@@ -1,4 +1,5 @@
 # devops-aula04
-Castelo Animado
 Coraline
+Castelo Animado
 Kobayashi
+A fantastica fabrica de chocolate
